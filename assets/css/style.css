@@ -1,0 +1,40 @@
+.header
+{
+  width: 350px;
+  background-color: #f6ffe5;
+}
+.wrapper
+{
+  background-image: url("../images/background.png");
+  background-size: cover;
+}
+.rules
+{
+  background-color:#f6ffe5;
+  width: 450px;
+}
+
+.crystal
+{
+  height: 50px;
+  width: 50px;
+}
+.total-Score-Box
+{
+  background-color: #a7b5cc;
+  width: 200px;
+}
+.score
+{
+  background-color: #a7b5cc;
+  width: 200px;
+}
+.total-Score-Box
+{
+  margin-top: 15px;
+}
+.wins-loses
+{
+  width: 200px;
+  background-color:#a7b5cc;
+}
